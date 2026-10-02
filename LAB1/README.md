@@ -4,10 +4,8 @@
 ---
 
 ## 1. THÔNG TIN SINH VIÊN
-* **Họ và tên:** [Điền Họ và Tên của bạn]
-* **Mã số sinh viên (MSSV):** [Điền MSSV của bạn]
-* **Lớp:** [Điền Lớp của bạn]
-* **Link Video thực hành YouTube:** [Điền Link video YouTube của bạn]
+* **Họ và tên:** Hoàng Trọng Dũng
+* **Mã số sinh viên (MSSV):** 1150080129
 
 ---
 
